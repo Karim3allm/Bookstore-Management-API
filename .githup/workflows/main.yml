@@ -26,3 +26,4 @@ jobs:
 
       - name: Run Maven Tests
         run: mvn clean test --batch-mode --no-transfer-progress
+
